@@ -1,0 +1,3 @@
+[submodule "booksfrontend"]
+	path = booksfrontend
+	url = https://github.com/KBNVSATYASAI/Books_Application.git
